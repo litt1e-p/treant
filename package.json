@@ -1,0 +1,35 @@
+{
+  "name": "@litt1e-p/treant",
+  "version": "0.0.1",
+  "description": "visualization of tree diagrams inspired by treant-js",
+  "keywords": [
+    "treant",
+    "diagram",
+    "tree",
+    "js",
+    "svg",
+    "raphael"
+  ],
+  "author": "litt1e-p",
+  "license": "MIT",
+  "main": "dist/treant.umd.js",
+  "module": "dist/treant.esm.js",
+  "unpkg": "dist/treant.min.js",
+  "style": "dist/treant.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litt1e-p/treant.git"
+  },
+  "bugs": {
+    "url": "https://github.com/litt1e-p/treant/issues"
+  },
+  "homepage": "https://github.com/litt1e-p/treant#readme",
+  "dependencies": {
+    "vue": "^2.6.10",
+    "raphael": "^2.3.0",
+    "jquery": "^3.4.1",
+    "jquery.easing": "^1.4.1",
+    "jquery.mousewheel": "^3.1.9",
+    "perfect-scrollbar": "^1.4.0"
+  }
+}
