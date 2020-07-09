@@ -1,6 +1,6 @@
 {
   "name": "@litt1e-p/treant",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "visualization of tree diagrams inspired by treant-js",
   "keywords": [
     "treant",
