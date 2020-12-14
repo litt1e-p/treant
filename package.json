@@ -1,6 +1,6 @@
 {
   "name": "@litt1e-p/treant",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "visualization of tree diagrams inspired by treant-js",
   "keywords": [
     "treant",
@@ -30,6 +30,7 @@
     "jquery": "^3.4.1",
     "jquery.easing": "^1.4.1",
     "jquery.mousewheel": "^3.1.9",
-    "perfect-scrollbar": "^1.4.0"
+    "perfect-scrollbar": "^1.4.0",
+    "core-js": "^3.8.1"
   }
 }
