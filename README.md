@@ -16,7 +16,7 @@ Visualization of tree diagrams inspired by [treant-js](https://github.com/fperuc
 # Installation
 
 ```js
-npm i @litt1e-p/treant --save
+npm i @litt1e-p/treant
 ```
 
 # Usage

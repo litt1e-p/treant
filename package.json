@@ -24,8 +24,8 @@
     "url": "https://github.com/litt1e-p/treant/issues"
   },
   "homepage": "https://github.com/litt1e-p/treant#readme",
-  "dependencies": {
-    "vue": "^2.6.10",
+  "peerDependencies": {
+    "vue": "^2.6.14",
     "raphael": "^2.3.0",
     "jquery": "^3.4.1",
     "jquery.easing": "^1.4.1",
